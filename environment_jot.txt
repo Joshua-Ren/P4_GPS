@@ -1,1 +1,4 @@
+salloc --time=1:0:0 --account=def-dsuth --gres=gpu:1 --mem=32000M
 source /home/joshua52/projects/def-dsuth/joshua52/env_gps/bin/activate
+
+
